@@ -1,1 +1,1 @@
-dreamacro/clash:latest
+lswl/vertex
