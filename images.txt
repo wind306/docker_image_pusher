@@ -1,1 +1,1 @@
-lswl/vertex
+ghcr.io/open-webui/open-webui:main-slim --platform=amd64
