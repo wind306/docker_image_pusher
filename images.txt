@@ -1,1 +1,1 @@
-ghcr.io/open-webui/open-webui:main-slim
+lmsysorg/sglang:main-cann8.3.rc2-910b
