@@ -1,5 +1,1 @@
---platform=arm64 mysql:8.0.32
---platform=arm64 rabbitmq:3.7.15
---platform=arm64 redis:4.0.11
---platform=arm64 nginx:latest
---platform=arm64 neo4j:3.5.28-community
+--platform=arm64 neo4j:4.4.28-community
